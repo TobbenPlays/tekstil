@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <font color="white" some text!</font>    <title>Dyre kl&aeligr bedre enn billige?</title>
+    <style>
+        body {
+            background-color: deeppink;
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+        }
+
+        p {
+            font-family: verdana;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+<h1>Det er bevist at dyre barnekl&aeligrt har ikke bedre kvalitet enn billige</h1>
+<h3>Det er ingen stor forskjell mellom de dyre og billige<br> kl&aeligr med tanke p&aring kvalitet, viser ny test.</h3>
+<p3>Etter 20 vask viser det seg &aring v&aeligre liten kvalitetforskjell mellom dyre barnekl&aeligr.</p3>
+<h3>Fakta om testen</h3>
+<p2>Alle varene ble vasket 20 ganger
+    <font color="white" some text!</font>
+    Jakkene ble vasket p&aring 40 grader<br>
+    Buksene ble vasket p&aring 30 grader<br>
+    Bodyene ble vasket p&aring 60 grader<br>
+    Alle kl&aeligrne ble vrengt og vasket sammen med flere kl&aeligr for du vasker aldri kl&aeligr alene.<br>
+    Priser:<br>
+    Burberry bukse: 999 kr<br>
+    HM bukse: 99 kr<br>
+    Ralp Lauren jakke: 799 kr<br>
+    HM jakke: 79,50<br>
+    Gant body: 299 kr<br>
+    Cubus body: 49,50<br>
+    En testlab i Sverige har sammenlignet de uvaskede med det vaskede for å se om det er:<br>
+    Fargetap<br>
+    nupping<br>
+    krymp<br>
+
+    Konklusjonen:  ingen forskjeller mellom dyr og billig.¨
+
+
+
+    Lill Vramo(forsker ved SIFO) sier hun tror at mange foreldre kjøper merkekl&aeligr til barna<br> fordi de regner med at det er bedre kvalitet p&aring det. Mange tror<br> nok at desto dyrere - jo bedre. Og derfor tar de seg r&aringd<br> til &aring kjøpe dyre kl&aeligr, sier Vramo. En av grunnene til at det blir kj&oslashpt <br>så mye merkekl&aeligr, er rett og slett for å passe inn. Vis du ikke<br> har merkekl&aeligr er du fattig.<br> Hvis du er fattig blir du holdt utenfor hvis du blir holdt utenfor<br> blir du mobbet. Det burde v&aeligre greit &aring ikke ha alle merkekl&aeligrne.<br>
+
+
+<img src="http://bloggfiler.no/annais.blogg.no/images/270175-11-1354120230591.jpg" alt="image" width="470">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EZ7WJOCxEQ" frameborder="0" ="470" allowfullscreen> </iframe>
+    <br>
+    <p>Her er en kahoot vi har laget om dyre og billige klær. En av de er dyr og en er billige. Prøv og gjett!</p>
+    <a href="https://create.kahoot.it/create#/edit/e253614a-3c52-441f-bf20-fe4f60e42a31/overview"> Kahoot om billige og dyre klær.</a><br>
+    <a href="http://www.side2.no/foreldre/dyre-barneklr-har-ikke-bedre-kvalitet-enn-billige/5182508.html"> side2.no</a> <br>
+    <a href="https://www.minmote.no/#!/artikkel/22928565/dyrt-design-vs-billige-funn-klarer-du-aa-se-forskjellen"> minmote.no</a><br>
+    <a href="https://www.vg.no/forbruker/foreldre-og-barn/merkeklaer-gikk-rett-i-vasken/a/10138451/"> Vg.no</a> <br>
+    <p>Laget av Tobias Petterson, Mikkel Vaaje-Kolstad, Anders Bredal Andersen og Sondre Omholt Gjevestad</p>
+</body>
+</html>
